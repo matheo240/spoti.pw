@@ -114,11 +114,4 @@ contribution; it is ticked once, before the first pull request is merged.
 [FLEX](https://github.com/FLEXTool/FLEX), as hopeless's AutoFLEX build in `vendor/`, is the inspector
 the view trees are read through.
 
-## License
-
-Source available under the [PolyForm Strict License 1.0.0](LICENSE): you can read the code and use
-the mod yourself, but not change it, reuse it in other projects or redistribute it. Releases up to
-v0.21.1 were published under GPL-3.0 and stay under it. Files in `vendor/` and `.agents/` keep their
-own licences.
-
 Not affiliated with Spotify.
